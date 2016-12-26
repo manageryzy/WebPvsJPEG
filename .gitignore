@@ -4,3 +4,4 @@ out
 *.tiff
 *.webp
 !/testdata/*
+!/result/*

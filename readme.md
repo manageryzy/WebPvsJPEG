@@ -31,8 +31,8 @@ As you see lossless WebP is better than PNG.
 
 ### lossy WebP vs JPEG ###
 
-![image](result/size.svg)
+![image](https://raw.githubusercontent.com/manageryzy/WebPvsJPEG/master/result/size.svg)
 
-![image](result/compress.svg)
+![image](https://raw.githubusercontent.com/manageryzy/WebPvsJPEG/master/result/compress.svg)
 
 I tested different image. I found JPEG is better than WebP if you want to get better quality of image.

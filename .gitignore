@@ -1,0 +1,6 @@
+out
+*.jpg
+*.png
+*.tiff
+*.webp
+!/testdata/*
